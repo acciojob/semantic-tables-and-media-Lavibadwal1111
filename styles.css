@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+img, video {
+    width: 200px;
+    height: 300px;
+}
